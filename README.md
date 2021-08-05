@@ -1,3 +1,2 @@
 # hello world
-Hi!
-I am learning to work in GitHub.
+New version of files
